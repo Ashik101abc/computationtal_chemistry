@@ -1,5 +1,0 @@
-# Water State Logic for Electrolysis
-temp_log=[-10,25,80,150,400]
-print(--- initiaation batch evaluation---")
-for temp in temp_log:
-	print("testing temperature:"+str(temp)+ "c")
